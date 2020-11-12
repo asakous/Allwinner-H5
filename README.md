@@ -5,7 +5,7 @@ Howw to build Retroarch on H5 platform</p>
 sudo apt install cmake mc quilt libasound-dev zlib1g-dev libudev-dev libfreetype6-dev libdrm-dev libgbm-dev libx11-dev fonts-droid-fallback libwayland-client0</p>
 
 
-1:image from armbian 5.4.75 or 5.8 . it dosen't matter. because It will be replaced by custom buld kernel.</p>
+1:image from armbian 5.4.75 or 5.8 . it dosen't matter. because It will be replaced by custom build kernel.</p>
 2:armbian build environment.</p>
   kernel config</p>
   remove lima driver</p>
