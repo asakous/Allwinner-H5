@@ -1,6 +1,6 @@
 # Allwinner-H5
 
-Howw to build Retroarch on H5 platform</p>
+How to build Retroarch on H5 platform</p>
 
 sudo apt install cmake mc quilt libasound-dev zlib1g-dev libudev-dev libfreetype6-dev libdrm-dev libgbm-dev libx11-dev fonts-droid-fallback libwayland-client0</p>
 
@@ -125,6 +125,14 @@ root@orangepipc2:~/RetroArch-1.9.0# ./retroarch -v</p>
 [INFO] [GL]: Version: OpenGL ES 2.0.</p>
 [INFO] [GL]: Using resolution 1280x720</p>
 [INFO] [GL]: Default shader backend found: glsl.</p>
+
+
+
+#performance test</p>
+DC 斑鳩 Ikaruga</p>
+retroarch 1.9 </p>
+libretro flycast (git current) </p>
+H3 mali r4p0 fbdev > H5 r9p0 mali kmsdrm > lima+mesa 20.1
 
 
 
