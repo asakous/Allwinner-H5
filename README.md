@@ -6,7 +6,7 @@ sudo apt install cmake mc quilt libasound-dev zlib1g-dev libudev-dev libfreetype
 
 
 1:image from armbian 5.4.75 or 5.8 . it dosen't matter. because It will be replaced by custom build kernel.</p>
-2:armbian build environment.</p>
+2:armbian build environment(select legacy sunxi64).</p>
   kernel config</p>
   remove lima driver</p>
   enable EXPERT mode</p>
