@@ -132,8 +132,9 @@ root@orangepipc2:~/RetroArch-1.9.0# ./retroarch -v</p>
 DC 斑鳩 Ikaruga</p>
 retroarch 1.9 </p>
 libretro flycast (git current) </p>
-H3 mali r4p0 fbdev > H5 r9p0 mali kmsdrm > lima+mesa 20.1
-
+H3 mali r4p0 fbdev > H5 r9p0 mali kmsdrm > lima+mesa 20.1</p></p>
+image glitch</p>
+H5 r9p0 mali kmsdrm > lima+mesa 20.1 > H3 mali r4p0 fbdev</p>
 
 
 
