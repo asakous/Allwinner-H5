@@ -87,7 +87,7 @@ make sure kmsdrm option is on after configuration</p>
 --disable-vg \
 --disable-sdl \
 --enable-sdl2 \
---enable-video-kmsdrm \
+--enable-kms \
 --enable-ffmpeg  \
 
 6: run retroarch -v </p></p>
