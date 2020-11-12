@@ -14,6 +14,7 @@ sudo apt install cmake mc quilt libasound-dev zlib1g-dev libudev-dev libfreetype
   after build finished . copy to H5 board and install it. </p>
   edit /boot/armbianEnv.txt  add a line [extraargs=drm_kms_helper.drm_fbdev_overalloc=200 drm_leak_fbdev_smem=1 video=HDMI-A-1:1280x720-24@60]</p>
   and don't forget reboot once.</p>
+  note:drm_kms_helper.drm_fbdev_overalloc=200 drm_leak_fbdev_smem=1 (may not needed)
 3: mali kernel driver </p>
    https://github.com/mripard/sunxi-mali . </p>
    I use r9p0</p>
